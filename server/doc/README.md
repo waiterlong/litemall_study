@@ -1,8 +1,8 @@
 # Table of Contents
 
-* [介绍](../README.md)
-* [更新日志](../CHANGELOG.md)
-* [贡献指南](../CONTRIBUTE.md)
+* [介绍](../../README.md)
+* [更新日志](../../CHANGELOG.md)
+* [贡献指南](../../CONTRIBUTE.md)
 * [FAQ](./FAQ.md)
 * [API](./api.md)
 * [1. 系统架构](./project.md)
