@@ -1,5 +1,6 @@
 ## 改造版本
-docker部署方式，具体可以参照@/server/dockerfile文件
+在@/pom.xml中进行package
+然后docker部署，具体可以参照@/server/dockerfile文件
 
 ## 源版本
 ## deploy
