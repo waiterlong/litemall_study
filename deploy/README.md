@@ -1,3 +1,7 @@
+## 改造版本
+docker部署方式，具体可以参照@/server/dockerfile文件
+
+## 源版本
 ## deploy
 
 ### 项目打包
